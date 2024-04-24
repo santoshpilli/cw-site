@@ -1,0 +1,28 @@
+
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+}
+        
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model pages {
+  id        BigInt    @id @default(autoincrement())
+  created_at DateTime  @default(now())
+  site_id   String?
+  page_id   String?
+  url_slug  String?
+  status    String?
+  content   Json?
+}
+
+model SlugResolverJson {
+  id          BigInt    @id @default(autoincrement())
+  created_at  DateTime  @default(now())
+  url_slug    String?
+  slug_file   String?
+}

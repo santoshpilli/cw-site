@@ -1,0 +1,198 @@
+{
+    "sections": [
+        {
+            "props": {
+                "layout": "centered",
+                "backgroundImage": "/images/order-management hero.png "
+            },
+            "content": {
+                "title": "Optimizing Orders for Peak Performance",
+                "subtitle": "Transform order management with a single, streamlined system that ensures efficiency and customer satisfaction across all channels",
+                "components": [
+                    {
+                        "props": {
+                            "link": "/features",
+                            "label": "Contact Sales",
+                            "buttonStyle": "primary"
+                        },
+                        "styling": {
+                            "color": "#ffffff",
+                            "backgroundColor": "#FAB005"
+                        },
+                        "componentType": "Button"
+                    }
+                ]
+            },
+            "styling": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#0047AB"
+            },
+            "sectionType": "HeroSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Seamless Inventory and Shipping Operations",
+                "imageUrl": "/images/oms seamless.png",
+                "features": [
+                    {
+                        "icon": "/icons/inventory-icon.png",
+                        "title": "Real-Time Inventory Sync",
+                        "description": "Keep inventory levels updated across all channels to prevent stockouts",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/sales-icon.png",
+                        "title": "Smart Shipping Solutions",
+                        "description": "Efficiently manage shipping with multiple carrier options and rate calculations",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/customer-icon.png",
+                        "title": "Delivery and Return Ease",
+                        "description": "Streamline delivery tracking and simplify the returns process for customer convenience",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Maintain perfect harmony between inventory levels and delivery management for an optimal customer experience"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "LeftImageRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Data-Driven Insights for Business Growth",
+                "imageUrl": "/images/oms data-driven.png",
+                "features": [
+                    {
+                        "icon": "/icons/inventory-icon.png",
+                        "title": "Comprehensive Sales Reporting",
+                        "description": "Access detailed reports on sales performance across all channels",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/sales-icon.png",
+                        "title": "Operational Analysis",
+                        "description": "Evaluate the effectiveness of your order processing and fulfillment strategies",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/customer-icon.png",
+                        "title": "Customer Behavior Tracking",
+                        "description": "Understand customer preferences and patterns for targeted marketing and inventory planning",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Utilize powerful analytics to gain insights into order management efficiency and customer trends"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RightImgLeftText"
+        },
+        {
+            "props": {
+                "layout": "slider"
+            },
+            "content": {
+                "testimonials": [
+                    {
+                        "quote": "Thanks to this software, we've seen remarkable improvements in our retail operations.",
+                        "author": "Alex Johnson",
+                        "company": "RetailWorld",
+                        "position": "CEO"
+                    },
+                    {
+                        "quote": "Our inventory management has never been more accurate and easy to handle.",
+                        "author": "Samantha Smith",
+                        "company": "The Fashion Hub",
+                        "position": "Operations Manager"
+                    }
+                ]
+            },
+            "styling": {},
+            "sectionType": "TestimonialsSection"
+        },
+        {
+            "props": {
+                "method": "POST",
+                "formAction": "/submit-contact"
+            },
+            "content": {
+                "title": "Talk to us",
+                "subtitle": "We are here to assist you with any issues or queries you may have",
+                "components": [
+                    {
+                        "props": {
+                            "name": "name",
+                            "type": "text",
+                            "placeholder": "Your Name"
+                        },
+                        "componentType": "TextField"
+                    },
+                    {
+                        "props": {
+                            "name": "email",
+                            "type": "email",
+                            "placeholder": "Your Email"
+                        },
+                        "componentType": "TextField"
+                    },
+                    {
+                        "props": {
+                            "name": "message",
+                            "placeholder": "Your Message"
+                        },
+                        "componentType": "TextArea"
+                    },
+                    {
+                        "props": {
+                            "type": "submit",
+                            "label": "Send Message"
+                        },
+                        "styling": {
+                            "color": "#ffffff",
+                            "backgroundColor": "#FAB005"
+                        },
+                        "componentType": "Button"
+                    }
+                ]
+            },
+            "styling": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#0047AB"
+            },
+            "sectionType": "ContactFormSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "Data": [
+                    {
+                        "answer": "To get started with CW Suite Apps, you will first need to select the required App from the list of Applications we have in the main section and purchase it. Once the app is purchased, you can install it and begin the registration process. You will be prompted to create an account or log in if you already have one. After that, you will see the Dashboard of the app and you will be prompted to fill in your business details, account settings and other relevant information. Once you have completed this step, you will have access to all the features and functionalities of that CW Suite App.<br> Additionally, you can refer to the help documentation and tutorials provided in the app or on the website for detailed instructions on how to use each feature and access the different functionalities of the app.",
+                        "questions": "How do I get started with CW Suite Apps?"
+                    },
+                    {
+                        "answer": "Yes, you can customize CW Suite Apps to meet the specific needs of your business. The apps include a variety of settings and configurations that allow you to tailor it to your business processes and workflow.For example, you can create custom forms to collect data that is specific to your business, and set up custom rules and triggers to automate certain tasks and processes. You can also generate reports and export data to Excel, PDF, and other formats.<br>Additionally, CW Suite team offers custom development and integration services to help you integrate an app with your existing systems and tools, such as your ERP, CRM, or inventory management system.It is best to consult with the support team for the level of customization available and it also depends on your subscription plan.",
+                        "questions": "Can I customize CW Suite Apps as per my business?"
+                    },
+                    {
+                        "answer": "The time it takes to install CW Suite Apps will depend on a few factors, such as the device you are using and the speed of your internet connection. Typically, the installation process should only take a few minutes to complete.<br><br>The following steps are involved in the installation process:<br><br>First, you will need to install the app from the CW Suite website.<br>Once the app installation is complete,you can open the app and begin the configuration process.<br>You need to fill in the business details and account settings and other relevant information.<br><br>On average, the entire process shouldn't take longer than 10-15 minutes, but again it may vary depending on the device and internet connection. If you encounter any issues or errors during the installation process, you can contact the support team for assistance.",
+                        "questions": "How long does a CW Suite App Installation process take?"
+                    }
+                ],
+                "title": "FAQS",
+                "subtitle": "Below Faqs will clear your doubts"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "FaqSection"
+        }
+    ],
+    "pageTitle": "Retail Software Solutions",
+    "pageDescription": "Comprehensive retail management software designed for modern businesses."
+}

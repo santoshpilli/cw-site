@@ -1,0 +1,294 @@
+[
+  {
+    "title": "",
+    "slug": "/home",
+    "type": "page",
+    "newTab": false,
+    "menuId": 21
+  },
+  {
+    "title": "Solutions",
+    "slug": "/solutions",
+    "type": "page",
+    "newTab": false,
+    "menuId": 1,
+    "children": [
+      {
+        "title": "Online Shop",
+        "slug": "/solutions/online-shop",
+        "type": "page",
+        "newTab": false,
+        "menuId": 2
+      },
+      {
+        "title": "Supply Chain",
+        "slug": "/solutions/supply-chain",
+        "type": "page",
+        "newTab": false,
+        "menuId": 3
+      },
+      {
+        "title": "Order Management System",
+        "slug": "/solutions/order-management-system",
+        "type": "page",
+        "newTab": false,
+        "menuId": 4
+      },
+      {
+        "title": "Customer Data Platform",
+        "slug": "/solutions/cdp",
+        "type": "page",
+        "newTab": false,
+        "menuId": 5
+      },
+      {
+        "title": "People First",
+        "slug": "/solutions/people-first",
+        "type": "page",
+        "newTab": false,
+        "menuId": 6
+      },
+      {
+        "title": "RFID Solutions",
+        "slug": "/solutions/rfid-solutions",
+        "type": "page",
+        "newTab": false,
+        "menuId": 7
+      }
+    ]
+  },
+  {
+    "title": "Stores",
+    "slug": "/stores",
+    "type": "page",
+    "newTab": false,
+    "menuId": 8,
+    "children": [
+      {
+        "title": "Point Of Sale",
+        "slug": "/stores/point-of-sale",
+        "type": "page",
+        "newTab": false,
+        "menuId": 9
+      },
+      {
+        "title": "Self Checkout",
+        "slug": "/stores/self-checkout",
+        "type": "page",
+        "newTab": false,
+        "menuId": 10
+      },
+      {
+        "title": "Mobile POS",
+        "slug": "/stores/mobile-pos",
+        "type": "page",
+        "newTab": false,
+        "menuId": 11
+      },
+      {
+        "title": "Scan & Go",
+        "slug": "/stores/scan-go",
+        "type": "page",
+        "newTab": false,
+        "menuId": 12
+      },
+      {
+        "title": "Store App",
+        "slug": "/stores/store-app",
+        "type": "page",
+        "newTab": false,
+        "menuId": 13
+      },
+      {
+        "title": "Clientelling",
+        "slug": "/stores/clientelling",
+        "type": "page",
+        "newTab": false,
+        "menuId": 14
+      },
+      {
+        "title": "Store Inventory",
+        "slug": "/stores/store-inventory",
+        "type": "page",
+        "newTab": false,
+        "menuId": 15
+      },
+      {
+        "title": "Store Fulfilment",
+        "slug": "/stores/store-fulfilment",
+        "type": "page",
+        "newTab": false,
+        "menuId": 16
+      },
+      {
+        "title": "Store Staff",
+        "slug": "/stores/store-staff",
+        "type": "page",
+        "newTab": false,
+        "menuId": 17
+      }
+    ]
+  },
+  {
+    "title": "Consumers",
+    "slug": "/consumers",
+    "type": "post",
+    "newTab": false,
+    "menuId": 18,
+    "children": [
+      {
+        "title": "Shopping App",
+        "slug": "/consumers/shopping-app",
+        "type": "page",
+        "newTab": false,
+        "menuId": 19
+      },
+      {
+        "title": "Loyalty",
+        "slug": "/consumers/case-studies",
+        "type": "page",
+        "newTab": false,
+        "menuId": 20
+      }
+    ]
+  },
+  {
+    "title": "Industries",
+    "slug": "/industries",
+    "type": "post",
+    "newTab": false,
+    "menuId": 21,
+    "children": [
+      {
+        "title": "Fashion",
+        "slug": "/industries/fashion",
+        "type": "page",
+        "newTab": false,
+        "menuId": 22
+      },
+      {
+        "title": "Grocery",
+        "slug": "/industries/grocery",
+        "type": "page",
+        "newTab": false,
+        "menuId": 23
+      },
+      {
+        "title": "Sports Retailer",
+        "slug": "/industries/sports-retailer",
+        "type": "page",
+        "newTab": false,
+        "menuId": 24
+      },
+      {
+        "title": "Department Stores",
+        "slug": "/industries/department-stores",
+        "type": "page",
+        "newTab": false,
+        "menuId": 25
+      },
+      {
+        "title": "Electronics",
+        "slug": "/industries/electronics",
+        "type": "page",
+        "newTab": false,
+        "menuId": 26
+      },
+      {
+        "title": "Jewelry",
+        "slug": "/industries/jewelry",
+        "type": "page",
+        "newTab": false,
+        "menuId": 27
+      },
+      {
+        "title": "Health & Beauty",
+        "slug": "/industries/health-beauty",
+        "type": "page",
+        "newTab": false,
+        "menuId": 28
+      },
+      {
+        "title": "Furniture & Home Furnishings",
+        "slug": "/industries/furniture-homefurnishings",
+        "type": "page",
+        "newTab": false,
+        "menuId": 29
+      }
+    ]
+  },
+  {
+    "title": "Resources",
+    "slug": "/resources",
+    "type": "page",
+    "newTab": false,
+    "menuId": 30,
+    "children": [
+      {
+        "title": "Blog",
+        "slug": "/resources/blog",
+        "type": "page",
+        "newTab": false,
+        "menuId": 31
+      },
+      {
+        "title": "Case Studies",
+        "slug": "/resources/case-studies",
+        "type": "page",
+        "newTab": false,
+        "menuId": 32
+      },
+      {
+        "title": "Whitepapers",
+        "slug": "/resources/whitepapers",
+        "type": "page",
+        "newTab": false,
+        "menuId": 33
+      },
+      {
+        "title": "Webinars",
+        "slug": "/resources/webinars",
+        "type": "page",
+        "newTab": false,
+        "menuId": 34
+      },
+      {
+        "title": "Datasheet",
+        "slug": "/resources/datasheet",
+        "type": "page",
+        "newTab": false,
+        "menuId": 35
+      }
+    ]
+  },
+  {
+    "title": "Company",
+    "slug": "/company",
+    "type": "page",
+    "newTab": false,
+    "menuId": 36,
+    "children": [
+      {
+        "title": "About CW Suite",
+        "slug": "/company/about cw suite",
+        "type": "page",
+        "newTab": false,
+        "menuId": 37
+      },
+      {
+        "title": "Become a Partner",
+        "slug": "company/https://externalwebsite.com/resources",
+        "type": "url",
+        "newTab": false,
+        "menuId": 38
+      },
+      {
+        "title": "Help Center",
+        "slug": "company/help-center",
+        "type": "page",
+        "newTab": false,
+        "menuId": 39
+      }
+    ]
+  }
+]
