@@ -32,6 +32,61 @@
         {
             "props": {},
             "content": {
+                "title": "Sophisticated Sales Dynamics",
+                "subtitle": "Orchestrate a luxurious purchase experience with refined sales solutions",
+                "cards": [
+                    {
+                        "url": "/images/securetransaction.png",
+                        "iconUrl": "/images/secureicon.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Secure Transactions",
+                        "description": "Ensure client peace of mind with high-security transaction processes."
+                    },
+                    {
+                        "url": "/images/bespoke.png",
+                        "iconUrl": "/images/bespokeicon.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Bespoke Clienteling",
+                        "description": "Keep a detailed client book for tailored interactions and follow-ups."
+                    },
+                    {
+                        "url": "/images/mobilelegance.png",
+                        "iconUrl": "/images/mobileeleganceicon.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Mobile POS Elegance",
+                        "description": "Enable sales associates to conduct transactions discreetly anywhere in the store."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Illuminating Insights for Precision and Engagement",
                 "imageUrl": "/images/illuminating jewelry.png",
                 "features": [

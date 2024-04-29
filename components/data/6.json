@@ -32,6 +32,49 @@
         {
             "props": {},
             "content": {
+                "title": "Aligning People and Performance",
+                "subtitle": "Comprehensive tools for optimizing every aspect of your workforce management",
+                "images": [
+                    {
+                        "url": "/images/peoplefirst align1.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "162px",
+                            "width": "162px"
+                        },
+                        "heading": "Performance Management",
+                        "description": "Implement goal-setting and performance tracking to align individual achievements with business objectives."
+                    },
+                    {
+                        "url": "/images/peoplefirst align2.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Employee Records",
+                        "description": "Maintain and access employee records securely and conveniently."
+                    },
+                    {
+                        "url": "/images/peoplefirst align3.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Feedback and Recognition",
+                        "description": "Cultivate a culture of appreciation with regular feedback mechanisms and recognition programs."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#87CEEB"
+            },
+            "sectionType": "ThreeImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Streamlining Talent Acquisition",
                 "imageUrl": "/images/streaming first.png",
                 "features": [

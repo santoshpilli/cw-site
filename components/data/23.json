@@ -1,0 +1,264 @@
+{
+    "sections": [
+        {
+            "props": {
+                "layout": "centered",
+                "backgroundImage": "/images/grocery hero.png "
+            },
+            "content": {
+                "title": "Fresh Perspectives on Grocery Retail",
+                "subtitle": "Deliver freshness faster with CW Suite's grocery-centric tech—streamlining operations from farm to checkout",
+                "components": [
+                    {
+                        "props": {
+                            "link": "/features",
+                            "label": "Contact Sales",
+                            "buttonStyle": "primary"
+                        },
+                        "styling": {
+                            "color": "#ffffff",
+                            "backgroundColor": "#FAB005"
+                        },
+                        "componentType": "Button"
+                    }
+                ]
+            },
+            "styling": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#0047AB"
+            },
+            "sectionType": "HeroSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "All-Aisle Excellence",
+                "subtitle": "Improve the in-store experience with a suite of retail technologies, from Point of Sale to Clienteling",
+                "cards": [
+                    {
+                        "url": "/images/advancedpos.png",
+                        "iconUrl": "/images/advancedposicon.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Advanced POS",
+                        "description": "Incorporate Point of Sale and Mobile POS for fast, efficient checkouts."
+                    },
+                    {
+                        "url": "/images/selfcheckout.png",
+                        "iconUrl": "/images/selfcheckouticon.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Self Checkout Convenience",
+                        "description": "Offer Self-Checkout and Scan & Go solutions to reduce wait times and enhance customer autonomy."
+                    },
+                    {
+                        "url": "/images/multifunctional.png",
+                        "iconUrl": "/images/staffempowericon.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Staff Empowerment Tools",
+                        "description": "Deploy My Store app for staff management, scheduling, and empowerment, ensuring teams deliver exceptional service."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Efficiency in Every Aisle",
+                "imageUrl": "/images/grocery efficiency.png",
+                "features": [
+                    {
+                        "icon": "/icons/inventory-icon.png",
+                        "title": "RFID for Efficiency",
+                        "description": "Implement RFID Solutions for real-time inventory tracking and management.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/sales-icon.png",
+                        "title": "Seamless Procurement",
+                        "description": "Simplify procurement and replenishment with sophisticated Order Management Systems.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/icons/customer-icon.png",
+                        "title": "Waste Reduction Analytics",
+                        "description": "Apply predictive analytics to forecast demand more accurately and minimize waste.",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Keep your shelves and digital inventory in perfect harmony with advanced supply chain and stock management systems."
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "LeftImageRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Digital Aisles Meeting Virtual Carts",
+                "subtitle": "Bridge the gap between aisles and online shopping carts with seamless e-commerce solutions.",
+                "images": [
+                    {
+                        "url": "/images/grocery roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "E-commerce Integration",
+                        "description": "Connect physical stores to the digital realm, ensuring product consistency across channels."
+                    },
+                    {
+                        "url": "/images/grocery roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Click and Collect",
+                        "description": "Smooth Click & Collect services enhance customer convenience with easy online ordering and in-store pickup."
+                    },
+                    {
+                        "url": "/images/grocery roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Shopping App Features",
+                        "description": "Maintain recipes, lists, and nutritional info to enhance the shopping experience."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
+        },
+        {
+            "props": {
+                "layout": "slider"
+            },
+            "content": {
+                "testimonials": [
+                    {
+                        "quote": "Thanks to this software, we've seen remarkable improvements in our retail operations.",
+                        "author": "Alex Johnson",
+                        "company": "RetailWorld",
+                        "position": "CEO"
+                    },
+                    {
+                        "quote": "Our inventory management has never been more accurate and easy to handle.",
+                        "author": "Samantha Smith",
+                        "company": "The Fashion Hub",
+                        "position": "Operations Manager"
+                    }
+                ]
+            },
+            "styling": {},
+            "sectionType": "TestimonialsSection"
+        },
+        {
+            "props": {
+                "method": "POST",
+                "formAction": "/submit-contact"
+            },
+            "content": {
+                "title": "Talk to us",
+                "subtitle": "We are here to assist you with any issues or queries you may have",
+                "components": [
+                    {
+                        "props": {
+                            "name": "name",
+                            "type": "text",
+                            "placeholder": "Your Name"
+                        },
+                        "componentType": "TextField"
+                    },
+                    {
+                        "props": {
+                            "name": "email",
+                            "type": "email",
+                            "placeholder": "Your Email"
+                        },
+                        "componentType": "TextField"
+                    },
+                    {
+                        "props": {
+                            "name": "message",
+                            "placeholder": "Your Message"
+                        },
+                        "componentType": "TextArea"
+                    },
+                    {
+                        "props": {
+                            "type": "submit",
+                            "label": "Send Message"
+                        },
+                        "styling": {
+                            "color": "#ffffff",
+                            "backgroundColor": "#FAB005"
+                        },
+                        "componentType": "Button"
+                    }
+                ]
+            },
+            "styling": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#0047AB"
+            },
+            "sectionType": "ContactFormSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "Data": [
+                    {
+                        "answer": "To get started with CW Suite Apps, you will first need to select the required App from the list of Applications we have in the main section and purchase it. Once the app is purchased, you can install it and begin the registration process. You will be prompted to create an account or log in if you already have one. After that, you will see the Dashboard of the app and you will be prompted to fill in your business details, account settings and other relevant information. Once you have completed this step, you will have access to all the features and functionalities of that CW Suite App.<br> Additionally, you can refer to the help documentation and tutorials provided in the app or on the website for detailed instructions on how to use each feature and access the different functionalities of the app.",
+                        "questions": "How do I get started with CW Suite Apps?"
+                    },
+                    {
+                        "answer": "Yes, you can customize CW Suite Apps to meet the specific needs of your business. The apps include a variety of settings and configurations that allow you to tailor it to your business processes and workflow.For example, you can create custom forms to collect data that is specific to your business, and set up custom rules and triggers to automate certain tasks and processes. You can also generate reports and export data to Excel, PDF, and other formats.<br>Additionally, CW Suite team offers custom development and integration services to help you integrate an app with your existing systems and tools, such as your ERP, CRM, or inventory management system.It is best to consult with the support team for the level of customization available and it also depends on your subscription plan.",
+                        "questions": "Can I customize CW Suite Apps as per my business?"
+                    },
+                    {
+                        "answer": "The time it takes to install CW Suite Apps will depend on a few factors, such as the device you are using and the speed of your internet connection. Typically, the installation process should only take a few minutes to complete.<br><br>The following steps are involved in the installation process:<br><br>First, you will need to install the app from the CW Suite website.<br>Once the app installation is complete,you can open the app and begin the configuration process.<br>You need to fill in the business details and account settings and other relevant information.<br><br>On average, the entire process shouldn't take longer than 10-15 minutes, but again it may vary depending on the device and internet connection. If you encounter any issues or errors during the installation process, you can contact the support team for assistance.",
+                        "questions": "How long does a CW Suite App Installation process take?"
+                    }
+                ],
+                "title": "FAQS",
+                "subtitle": "Below Faqs will clear your doubts"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "FaqSection"
+        }
+    ],
+    "pageTitle": "Retail Software Solutions",
+    "pageDescription": "Comprehensive retail management software designed for modern businesses."
+}

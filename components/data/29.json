@@ -32,6 +32,75 @@
         {
             "props": {},
             "content": {
+                "title": "Showroom Innovation and Efficiency",
+                "subtitle": "Revolutionize your showroom with technology that enhances customer interaction and inventory management",
+                "cards": [
+                    {
+                        "url": "/images/rfidsol.png",
+                        "iconUrl": "/images/rfidicon1.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "RFID Solutions",
+                        "description": "Utilize RFID technology for efficient tracking and management of large furniture items."
+                    },
+                    {
+                        "url": "/images/interactivedisplay.png",
+                        "iconUrl": "/images/interactiveicon.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Interactive Displays",
+                        "description": "Engage customers with digital displays that provide detailed product information, customization options, and more."
+                    },
+                    {
+                        "url": "/images/mobilepos.png",
+                        "iconUrl": "/images/mobileposicon.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Mobile POS Systems",
+                        "description": "Equip sales staff with mobile POS devices to process transactions anywhere in the showroom, enhancing the customer's purchasing experience."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "url": "/images/fashion2.png",
+            "iconUrl": "/images/customericon.png",
+            "styles": {
+                "backgroundColor": "#D1ECFD",
+                "imageCardbackgroundColor": "#D1ECFD",
+                "borderRadius": "16px",
+                "padding": "20px",
+                "marginTop": "25px",
+                "maxWidth": "300px"
+            },
+            "heading": "Customer Insights",
+            "description": "Utilize our Customer Data Platform to gain insights into fashion trends and customer preferences."
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Inventory Control",
                 "imageUrl": "/images/inventory home.png",
                 "features": [
@@ -60,6 +129,49 @@
                 "backgroundColor": "#f0f0f0"
             },
             "sectionType": "LeftImageRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Building Customer Relationships",
+                "subtitle": "Foster strong connections through personalized service and loyalty programs.",
+                "images": [
+                    {
+                        "url": "/images/furnishing roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Custom Services",
+                        "description": "Offer tailored services to enhance customer engagement."
+                    },
+                    {
+                        "url": "/images/furnishing roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Post Purchase Support",
+                        "description": "Provide exemplary after-sales services, including assembly assistance and care tips."
+                    },
+                    {
+                        "url": "/images/furnishing roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Loyalty Rewards",
+                        "description": "Implement a rewards program tailored to frequent furniture buyers."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
         },
         {
             "props": {

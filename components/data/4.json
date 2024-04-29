@@ -64,6 +64,49 @@
         {
             "props": {},
             "content": {
+                "title": "Customer Service and Order Handling",
+                "subtitle": "Enhance the customer experience with streamlined order processing and responsive service features",
+                "images": [
+                    {
+                        "url": "/images/order flexibility.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "162px",
+                            "width": "162px"
+                        },
+                        "heading": "Order Flexibility",
+                        "description": "Enable easy modifications and cancellations for customer convenience"
+                    },
+                    {
+                        "url": "/images/customer communication.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Customer Communication",
+                        "description": "Keep customers informed with updates on their orders"
+                    },
+                    {
+                        "url": "/images/return management.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Returns Management",
+                        "description": "Manage returns and refunds smoothly to maintain customer satisfaction"
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#87CEEB"
+            },
+            "sectionType": "ThreeImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Data-Driven Insights for Business Growth",
                 "imageUrl": "/images/oms data-driven.png",
                 "features": [

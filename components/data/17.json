@@ -32,6 +32,75 @@
         {
             "props": {},
             "content": {
+                "title": "Staff Scheduling and Management",
+                "subtitle": "Optimize your workforce for peak efficiency and service",
+                "cards": [
+                    {
+                        "url": "/images/automated scheduling.png",
+                        "iconUrl": null,
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "340px"
+                        },
+                        "heading": "Automated Scheduling",
+                        "description": "Simplify shift planning with automated scheduling tools."
+                    },
+                    {
+                        "url": "/images/availability tracking.png",
+                        "iconUrl": null,
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "340px"
+                        },
+                        "heading": "Availability Tracking",
+                        "description": "Keep track of staff availability and manage leave requests seamlessly."
+                    },
+                    {
+                        "url": "/images/shift swap.png",
+                        "iconUrl": null,
+                        "styles": {
+                            "backgroundColor": "#CBD1E5",
+                            "imageCardbackgroundColor": "#CBD1E5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "340px"
+                        },
+                        "heading": "Shift Swap Options",
+                        "description": "Facilitate easy shift swaps among staff for greater flexibility."
+                    },
+                    {
+                        "url": "/images/time tracking.png",
+                        "iconUrl": null,
+                        "styles": {
+                            "backgroundColor": "#BEE1E6",
+                            "imageCardbackgroundColor": "#BEE1E6",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "340px"
+                        },
+                        "heading": "Time-Tracking Integration",
+                        "description": "Utilize time tracking to assess staff performance and optimize scheduling."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "FourCardSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Training and Performance Insights",
                 "imageUrl": "/images/training staff.png",
                 "features": [

@@ -32,6 +32,58 @@
         {
             "props": {},
             "content": {
+                "title": "Inventory Oversight",
+                "subtitle": "Harness the power of real-time, across-the-board inventory monitoring",
+                "images": [
+                    {
+                        "url": "/images/location.png",
+                        "styles": {
+                            "backgroundColor": "#60C0B0",
+                            "imageCardbackgroundColor": "#EAF2FF",
+                            "borderRadius": "25px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Across All Locations",
+                        "description": "Gain immediate insight into inventory levels at every store and warehouse."
+                    },
+                    {
+                        "url": "/images/stock data.png",
+                        "styles": {
+                            "backgroundColor": "#CBD1E5",
+                            "imageCardbackgroundColor": "#97ABEE",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Accurate Stock Data",
+                        "description": "Ensure up-to-date and precise stock information for effective decision-making."
+                    },
+                    {
+                        "url": "/images/assurance.png",
+                        "styles": {
+                            "backgroundColor": "#BEE1E6",
+                            "imageCardbackgroundColor": "#FFF0F0",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Quality Assurance",
+                        "description": "Monitor the condition and quality of the inventory to prevent issues like spoilage, damage, or obsolescence."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Stock Intake and Availability",
                 "imageUrl": "/images/stock intake.png",
                 "features": [

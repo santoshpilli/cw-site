@@ -32,6 +32,61 @@
         {
             "props": {},
             "content": {
+                "title": "Tailored Tech for Fashion",
+                "subtitle": "Experience solutions designed specifically for the dynamic needs of fashion retail.",
+                "cards": [
+                    {
+                        "url": "/images/fashion focused.png",
+                        "iconUrl": "/images/fashionfocused.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Fashion-Focused POS",
+                        "description": "Advanced Point of Sale systems catering to the fast-paced fashion retail environment."
+                    },
+                    {
+                        "url": "/images/fashion2.png",
+                        "iconUrl": "/images/customericon.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Customer Insights",
+                        "description": "Utilize our Customer Data Platform to gain insights into fashion trends and customer preferences."
+                    },
+                    {
+                        "url": "/images/fashion3.png",
+                        "iconUrl": "/images/rfidicon.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "RFID for Inventory",
+                        "description": "Implement RFID solutions for accurate and real-time inventory management."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Style-Forward Shopping",
                 "imageUrl": "/images/style fashion.png",
                 "features": [
@@ -60,6 +115,49 @@
                 "backgroundColor": "#f0f0f0"
             },
             "sectionType": "LeftImageRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Streamlined Fashion Ops",
+                "subtitle": "Drive operational efficiency with our robust retail and supply chain solutions",
+                "images": [
+                    {
+                        "url": "/images/fashion roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Order Management",
+                        "description": "Efficiently manage orders across channels with our Order Management System."
+                    },
+                    {
+                        "url": "/images/fashion roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Supply Chain",
+                        "description": "Leverage our Supply Chain solutions for smooth and responsive supply chain management."
+                    },
+                    {
+                        "url": "/images/fashion roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Staff Empowerment",
+                        "description": "Utilize our Store Staff solution for effective staff management and empowerment."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
         },
         {
             "props": {

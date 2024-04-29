@@ -70,6 +70,44 @@
         {
             "props": {},
             "content": {
+                "title": "Inventory and Supply Chain",
+                "imageUrl": "/images/storeapp inventory.png",
+                "features": [
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Manage table assignments",
+                        "description": "Effortlessly manage table assignments and wait times with real-time updates",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Wait times",
+                        "description": "Minimize customer wait times with our optimized queuing and waitlist management system, improving operational efficiency",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Reservations",
+                        "description": "Manage reservations with our intuitive reservation management system, ensuring smooth bookings.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "View real-time table statuses",
+                        "description": "Instantly view table availability and status in real-time with our table status tracking feature.",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Enhance customer experience and maximize seating capacity with our intuitive table management system for seamless reservation and seating arrangements."
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "BgColorImage"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Task Management",
                 "imageUrl": "/images/storeapp task.png",
                 "features": [
@@ -104,6 +142,58 @@
                 "backgroundColor": "#f0f0f0"
             },
             "sectionType": "RightImgLeftText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Structured Approval Processes",
+                "subtitle": "Manage and delegate responsibilities with a robust system for approvals and permissions",
+                "images": [
+                    {
+                        "url": "/images/storepermission.png",
+                        "styles": {
+                            "backgroundColor": "#60C0B0",
+                            "imageCardbackgroundColor": "#EAF2FF",
+                            "borderRadius": "25px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Approval & Permission",
+                        "description": "Implement a clear hierarchy for decision-making and task authorization."
+                    },
+                    {
+                        "url": "/images/storeapp role.png",
+                        "styles": {
+                            "backgroundColor": "#CBD1E5",
+                            "imageCardbackgroundColor": "#97ABEE",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Role-Based Access Control",
+                        "description": "Ensure sensitive information and critical functions are accessible only to authorized personnel."
+                    },
+                    {
+                        "url": "/images/store customizable.png",
+                        "styles": {
+                            "backgroundColor": "#BEE1E6",
+                            "imageCardbackgroundColor": "#FFF0F0",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Customizable Permission Levels",
+                        "description": "Tailor access and responsibilities based on role and department needs."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardImgSection"
         },
         {
             "props": {

@@ -32,8 +32,46 @@
         {
             "props": {},
             "content": {
+                "title": "The Smart Way to Shop and Go",
+                "imageUrl": "/images/staff smartway.png",
+                "features": [
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Touchscreen Navigation",
+                        "description": "Simplified touchscreen controls for a user-friendly checkout experience.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Customizable Layouts",
+                        "description": "Tailor the interface to match your store's brand and most popular items.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Multi-language Support",
+                        "description": "Inclusive design that speaks to your diverse customer base.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Mobile Integration",
+                        "description": "Seamless transition from mobile app to kiosk, preserving cart and preferences.",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Designed for ease and speed to enhance customer satisfaction"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "BgColorImage"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Flexible Payments, Happy Customers",
-                "imageUrl": "/images/flexible payment.png",
+                "imageUrl": "/images/flexiblepayment.png",
                 "features": [
                     {
                         "icon": "/icons/inventory-icon.png",

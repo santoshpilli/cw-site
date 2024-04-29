@@ -32,6 +32,49 @@
         {
             "props": {},
             "content": {
+                "title": "Scan with Ease and Shop with Knowledge",
+                "subtitle": "Offer your customers a swift and informed shopping experience that also streamlines your operations.",
+                "images": [
+                    {
+                        "url": "/images/scango roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Quick Scan Technology",
+                        "description": "Provide customers with fast and accurate scanning capabilities using their smartphones, reducing wait times and enhancing satisfaction"
+                    },
+                    {
+                        "url": "/images/scango roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Real-Time Product Insights",
+                        "description": "Offer customers instant access to product details, stock levels, and allergen alerts, facilitating informed purchasing decisions."
+                    },
+                    {
+                        "url": "/images/scango roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Personalized Promotions",
+                        "description": "Boost sales with targeted offers and discounts that customers can unlock as they scan, increasing basket size and customer loyalty."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Engage Customers Beyond Checkout",
                 "imageUrl": "/images/engage customers.png",
                 "features": [

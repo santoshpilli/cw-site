@@ -32,6 +32,61 @@
         {
             "props": {},
             "content": {
+                "title": "Agile Checkout Plays",
+                "subtitle": "Equip your store with fast, flexible sales solutions for a winning customer service",
+                "cards": [
+                    {
+                        "url": "/images/speedypos.png",
+                        "iconUrl": "/images/speedyicon.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Speedy Mobile POS",
+                        "description": "Ensure client peace of mind with high-security transaction processes."
+                    },
+                    {
+                        "url": "/images/selfservice.png",
+                        "iconUrl": "/images/selfserviceicon.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Self-Service Efficiency",
+                        "description": "Keep a detailed client book for tailored interactions and follow-ups."
+                    },
+                    {
+                        "url": "/images/multifunctional.png",
+                        "iconUrl": "/images/multifunctionaliconpos.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Multifunctional POS",
+                        "description": "Enable sales associates to conduct transactions discreetly anywhere in the store."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Victory in Inventory Control",
                 "imageUrl": "/images/victory sport.png",
                 "features": [
@@ -60,6 +115,49 @@
                 "backgroundColor": "#f0f0f0"
             },
             "sectionType": "LeftImageRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Championing Customer Engagement",
+                "subtitle": "Create loyal fans with personalized shopping experiences that resonate with sports enthusiasts",
+                "images": [
+                    {
+                        "url": "/images/sports roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Loyalty Programs",
+                        "description": "Reward points for fitness classes, team apparel, and gear."
+                    },
+                    {
+                        "url": "/images/sports roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Interactive Shopping App",
+                        "description": "Features for tracking fitness goals and finding the right gear."
+                    },
+                    {
+                        "url": "/images/sports roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Community Building",
+                        "description": "Leverage your app to create sports communities and event sign-ups."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
         },
         {
             "props": {

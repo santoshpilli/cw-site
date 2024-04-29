@@ -32,6 +32,49 @@
         {
             "props": {},
             "content": {
+                "title": "Direct Communication, Enhanced Engagement",
+                "subtitle": "Facilitate direct and meaningful interactions between store associates and customers",
+                "images": [
+                    {
+                        "url": "/images/clientelling roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "In-App Messaging",
+                        "description": "Enable real-time communication with clients through the CW app for personalized customer service."
+                    },
+                    {
+                        "url": "/images/clientelling roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Customer Engagement",
+                        "description": "Utilize advanced tools to engage customers with promotions and events based on their interests and past interactions."
+                    },
+                    {
+                        "url": "/images/clientelling roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Feedback Collection",
+                        "description": "Use customer interactions to gather valuable feedback and insights."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Customer Insights",
                 "imageUrl": "/images/customer insights.png",
                 "features": [

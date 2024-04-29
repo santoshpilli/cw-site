@@ -9,6 +9,15 @@ import Platfom from "../../components/Home/Platfom";
 import RightImgLefttext from '../sections/RightImgLefttext';
 import LeftImgRighttext from '../sections/LeftImgRighttext';
 import FeaturesSectionRightText from '../sections/FeatureSectionRightText';
+import RoundImgSection from '../sections/RoundImgSection';
+import CardImgSection from '../sections/CardImgSection';
+import ThreeImgSection from '../sections/ThreeImgSection';
+import BgColorImage from '../sections/BgColorImage';
+// import CardImgSection from '../sections/CardImgSection';
+import CardMergeSection from '../sections/CardMergeSection';
+import FourCardSection from '../sections/FourCardSection';
+
+
 
 const RenderSections = ({ data }) => {
 
@@ -23,8 +32,21 @@ const RenderSections = ({ data }) => {
                 return <RightImgLefttext data={section} />;
             case 'LeftImageRightText':
                 return <LeftImgRighttext data={section} />;
+            case 'RoundImgSection':
+                return <RoundImgSection data={section} />;
+            case 'CardImgSection':
+                return <CardImgSection data={section} />;
+            case 'ThreeImgSection':
+                return <ThreeImgSection data={section} />;
+            case 'BgColorImage':
+                return <BgColorImage data={section} />;
+            case 'CardMergeSection':
+                return <CardMergeSection data={section} />;
+            case 'FourCardSection':
+                return <FourCardSection data={section} />;
             case 'FeatureSectionRightText':
                 return <FeaturesSectionRightText data={section} />;
+
 
             case 'ContactFormSection':
                 return <TalkUs data={section} />;

@@ -6,8 +6,8 @@
                 "backgroundImage": "/images/supplychain hero.png "
             },
             "content": {
-                "title": "Optimizing Orders for Peak Performance",
-                "subtitle": "Transform order management with a single, streamlined system that ensures efficiency and customer satisfaction across all channels",
+                "title": "Revolutionizing Supply Chain Efficiency",
+                "subtitle": "From precise inventory management to advanced analytics, our solution is designed to streamline operations and forecast demands with unmatched accuracy.",
                 "components": [
                     {
                         "props": {
@@ -28,6 +28,58 @@
                 "backgroundColor": "#0047AB"
             },
             "sectionType": "HeroSection"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Supply Chain Excellence",
+                "subtitle": "Harness the power of real-time, across-the-board inventory monitoring",
+                "images": [
+                    {
+                        "url": "/images/integrated operations.png",
+                        "styles": {
+                            "backgroundColor": "#60C0B0",
+                            "imageCardbackgroundColor": "#EAF2FF",
+                            "borderRadius": "25px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Integrated Operations",
+                        "description": "Seamlessly unify all facets of your supply chain, ensuring coordinated and efficient global operations"
+                    },
+                    {
+                        "url": "/images/data driven.png",
+                        "styles": {
+                            "backgroundColor": "#CBD1E5",
+                            "imageCardbackgroundColor": "#97ABEE",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Data- Driven Insights",
+                        "description": "Harness the power of real-time analytics and demand forecasting to make informed, strategic decisions"
+                    },
+                    {
+                        "url": "/images/scalability.png",
+                        "styles": {
+                            "backgroundColor": "#BEE1E6",
+                            "imageCardbackgroundColor": "#FFF0F0",
+                            "borderRadius": "16px",
+                            "padding": "15px",
+                            "marginTop": "5px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Scalability and Flexibility",
+                        "description": "Easily adapt and scale your supply chain operations to meet evolving business demands and market conditions"
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardImgSection"
         },
         {
             "props": {},
@@ -54,7 +106,7 @@
                         "componentType": "FeatureItem"
                     }
                 ],
-                "subtitle": "Utilize powerful analytics to gain insights into order management efficiency and customer trends"
+                "subtitle": ""
             },
             "styling": {
                 "backgroundColor": "#f0f0f0"

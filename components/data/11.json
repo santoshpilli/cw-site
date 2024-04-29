@@ -32,6 +32,44 @@
         {
             "props": {},
             "content": {
+                "title": "On-the-Go Transactions",
+                "imageUrl": "/images/mobilepos ongo.png",
+                "features": [
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "One-Transaction Convenience",
+                        "description": "Process store and endless aisle purchases seamlessly in a single transaction.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Real-time Inventory Access",
+                        "description": "Empower associates with real-time access to enterprise-wide inventory.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Versatile Payment Options",
+                        "description": "Accept various in-person contactless payments securely on a mobile device.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Efficient Returns Management",
+                        "description": "Handle partial or complete omnichannel returns and exchanges with ease.",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Create effortless shopping experiences with our Mobile POS, where every purchase is a breeze"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "BgColorImage"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Personalized Shopper Interactions",
                 "imageUrl": "/images/mobile pos left.png",
                 "features": [

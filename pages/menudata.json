@@ -145,10 +145,17 @@
       },
       {
         "title": "Loyalty",
-        "slug": "/consumers/case-studies",
+        "slug": "/consumers/loyalty",
         "type": "page",
         "newTab": false,
         "menuId": 20
+      },
+      {
+        "title": "Digital Storefront",
+        "slug": "/consumers/digital-storefront",
+        "type": "page",
+        "newTab": false,
+        "menuId": 40
       }
     ]
   },
@@ -277,8 +284,8 @@
       },
       {
         "title": "Become a Partner",
-        "slug": "company/https://externalwebsite.com/resources",
-        "type": "url",
+        "slug": "/company/become-a-partner",
+        "type": "page",
         "newTab": false,
         "menuId": 38
       },

@@ -32,6 +32,49 @@
         {
             "props": {},
             "content": {
+                "title": "Understanding Customers Like Never Before",
+                "subtitle": "Offer your customers a swift and informed shopping experience that also streamlines your operations.",
+                "images": [
+                    {
+                        "url": "/images/cdp roundimg1.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Customer Segmentation",
+                        "description": "Divide your customer base into distinct groups for targeted strategies"
+                    },
+                    {
+                        "url": "/images/cdp roundimg2.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Personalized Campaigns",
+                        "description": "Create and deploy customized marketing messages that resonate with each customer segment"
+                    },
+                    {
+                        "url": "/images/cdp roundimg3.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Customer Analytics",
+                        "description": "Track and analyze the customer journey to understand interactions and improve engagement strategies"
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Comprehensive Data Mastery",
                 "imageUrl": "/images/comprehensive cdp.png",
                 "features": [

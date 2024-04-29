@@ -70,6 +70,61 @@
         {
             "props": {},
             "content": {
+                "title": "Enhanced Customer Experience",
+                "subtitle": "Cutting-edge features that can help businesses to streamline their operations, improve efficiency, and better serve their customers by providing a more efficient and personalized experience",
+                "cards": [
+                    {
+                        "url": "/images/pos loyalty.png",
+                        "iconUrl": "/images/Clippathgroup.png",
+                        "styles": {
+                            "backgroundColor": "#DBECE5",
+                            "imageCardbackgroundColor": "#DBECE5",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Loyalty Programs",
+                        "description": "Engage customers with points, rewards, and gift cards, boosting retention and satisfaction​​"
+                    },
+                    {
+                        "url": "/images/pos omni.png",
+                        "iconUrl": "/images/omnichannel.png",
+                        "styles": {
+                            "backgroundColor": "#D1ECFD",
+                            "imageCardbackgroundColor": "#D1ECFD",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Omni-Channel Efficiency",
+                        "description": "Unify your online and offline sales channels with features like 'click and collect'​"
+                    },
+                    {
+                        "url": "/images/pos multiple.png",
+                        "iconUrl": "/images/multiplepayments.png",
+                        "styles": {
+                            "backgroundColor": "#FFF3EA",
+                            "imageCardbackgroundColor": "#FFF3EA",
+                            "borderRadius": "16px",
+                            "padding": "20px",
+                            "marginTop": "25px",
+                            "maxWidth": "300px"
+                        },
+                        "heading": "Multiple Payment Options",
+                        "description": "Offer flexibility in payments, accepting cash, checks, credit cards, and more​"
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "CardMergeSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Efficient Operations",
                 "imageUrl": "/images/efficient pos.png",
                 "features": [
@@ -136,6 +191,49 @@
                 "backgroundColor": "#f0f0f0"
             },
             "sectionType": "FeatureSectionRightText"
+        },
+        {
+            "props": {},
+            "content": {
+                "title": "Efficient Inventory Management",
+                "subtitle": "With accurate tracking, smart stock forecasts and automated replenishment alerts, simplify your workflow to improve performance and process time",
+                "images": [
+                    {
+                        "url": "/images/productmanagement.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "162px",
+                            "width": "162px"
+                        },
+                        "heading": "Product management",
+                        "description": "Create categories, product variants and SKUs for better control over your stock"
+                    },
+                    {
+                        "url": "/images/reorder.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Reorder points",
+                        "description": "Set reorder points and low-stock alerts to minimize out-of-stock"
+                    },
+                    {
+                        "url": "/images/easyintegration.png",
+                        "styles": {
+                            "borderRadius": "58px",
+                            "height": "422px",
+                            "width": "344px"
+                        },
+                        "heading": "Easy Integrations",
+                        "description": "Easily integrate with other apps in Suite as your business grows"
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#87CEEB"
+            },
+            "sectionType": "ThreeImgSection"
         },
         {
             "props": {

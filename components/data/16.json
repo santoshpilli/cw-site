@@ -32,6 +32,49 @@
         {
             "props": {},
             "content": {
+                "title": "Direct Communication, Enhanced Engagement",
+                "subtitle": "Facilitate direct and meaningful interactions between store associates and customers",
+                "images": [
+                    {
+                        "url": "/images/Instore pickup.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "In-Store Pickup",
+                        "description": "Enhance customer convenience with buy online, pick up in-store options."
+                    },
+                    {
+                        "url": "/images/shipstore.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Ship-from-Store",
+                        "description": "Speed up delivery times by shipping directly from nearby store locations."
+                    },
+                    {
+                        "url": "/images/smart routing.png",
+                        "styles": {
+                            "borderRadius": "10px",
+                            "height": "200px",
+                            "width": "200px"
+                        },
+                        "heading": "Smart Routing",
+                        "description": "Implement intelligent order routing for quicker and more accurate order processing."
+                    }
+                ]
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "RoundImgSection"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Effortless Returns",
                 "imageUrl": "/images/effortless return.png",
                 "features": [

@@ -32,6 +32,38 @@
         {
             "props": {},
             "content": {
+                "title": "Site Management",
+                "imageUrl": "/images/onlineshop site.png",
+                "features": [
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Optimized for Conversion",
+                        "description": "Tailored landing pages, SEO-friendly design, and mobile-optimized experiences to maximize engagement.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Reliable Uptime",
+                        "description": "Ensure your site is always open for business with our robust hosting solutions.",
+                        "componentType": "FeatureItem"
+                    },
+                    {
+                        "icon": "/images/posmainIcon.png",
+                        "title": "Effortless Content Management",
+                        "description": "Easily update your site with drag-and-drop layouts, customizable themes, and real-time previews.",
+                        "componentType": "FeatureItem"
+                    }
+                ],
+                "subtitle": "Effortlessly create and manage your online presence, ensuring a user-friendly experience and optimized visibility for your brand"
+            },
+            "styling": {
+                "backgroundColor": "#f0f0f0"
+            },
+            "sectionType": "BgColorImage"
+        },
+        {
+            "props": {},
+            "content": {
                 "title": "Product Management",
                 "imageUrl": "/images/product-management.png",
                 "features": [
